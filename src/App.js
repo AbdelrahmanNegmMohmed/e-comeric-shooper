@@ -17,6 +17,8 @@ function App() {
         
         >
           <h1>hellogi</h1>
+          <h1>hellogi</h1>
+          <h1>hellogi</h1>
           Learn React
         </a>
       </header>
