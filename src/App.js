@@ -26,7 +26,6 @@ function App() {
               </Route>
               <Route path='/cart' element={<Card/>}/>
               <Route path='/login' element={<LoginSignup/>}/>
-
             </Routes>
             <Footer/>
 
