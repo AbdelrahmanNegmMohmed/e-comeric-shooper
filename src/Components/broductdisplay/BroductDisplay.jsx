@@ -8,7 +8,7 @@ const BroductDisplay = (props) => {
     const rate =product.id*2.5
 
   return (
-    <div className='broductdisplay'>
+      <div className='broductdisplay'>
         <div className="broductdisplay-left">
             <div className="broductdisplay-img-list">
                 <img src={product.image} alt="" />
