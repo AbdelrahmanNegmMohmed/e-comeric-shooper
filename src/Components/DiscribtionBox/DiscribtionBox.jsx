@@ -21,8 +21,6 @@ const DiscribtionBox = () => {
             ad dolores commodi, assumenda nihil debitis quod, odit incidunt numquam sit
             est consectetur! Deserunt modi possimus ab! Hic debitis et quia neque. 
         </p>
-         
-
        </div>
 
     </div>
